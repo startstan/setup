@@ -1,7 +1,6 @@
-#Forked and modfified setup.sh to include heroku tools.
-
 setup.git
 =========
+Forked and modified setup.sh to include Heroku command line tool installation
 Clone and run this on a new EC2 instance running Ubuntu 12.04.2 LTS to
 configure both the machine and your individual development environment as
 follows:
