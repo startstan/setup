@@ -1,5 +1,12 @@
 setup.git
 =========
+
+TODO:
+---------
+1. Add steps to setup github account (git config username and user email), in the setup scipt
+2. Add steps to setup ssh keys for github on a new instance
+3. Add steps to setup ssh keys for heroku on a new instance
+
 Forked and modified setup.sh to include Heroku command line tool installation
 Clone and run this on a new EC2 instance running Ubuntu 12.04.2 LTS to
 configure both the machine and your individual development environment as
